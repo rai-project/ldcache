@@ -1,4 +1,3 @@
-// +build server
 // +build !linux
 
 package ldcache
